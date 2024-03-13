@@ -1,0 +1,1 @@
+LebwohlLasher_optimized_v1.py: Size: 50, Steps: 50, T*: 0.500: Order: 0.276, Time: 0.991593 s
